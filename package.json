@@ -1,0 +1,32 @@
+{
+  "name": "valvo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.8",
+    "init": "^0.1.2",
+    "mongoose": "^7.6.9",
+    "next": "^14.1.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.1",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-player": "^2.15.1",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "@types/react": "^18.2.63",
+    "eslint": "^8.38.0",
+    "eslint-config-next": "^13.3.0",
+    "typescript": "^5.3.3"
+  }
+}
